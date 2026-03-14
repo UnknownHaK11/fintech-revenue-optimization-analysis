@@ -47,3 +47,27 @@ The dataset used in this project represents anonymized client-level and investme
 - Referral-based clients demonstrated stronger investment engagement compared to direct connections.
 - AUM growth showed a strong dependency on client acquisition trends over time.
 - Forecasting results helped estimate yearly client acquisition targets to sustain long-term growth.
+
+## Visual Highlights
+
+### Pareto Analysis (Client Revenue Contribution)
+
+![Pareto Analysis](pareto_analysis.png)
+
+### Customer Segmentation
+
+![Customer Segmentation](customer_segmentation.png)
+
+### AUM Forecasting Trend
+
+![AUM Forecast](aum_forecast.png)
+
+### Targets
+
+![Targets](targets.png)
+
+## Full Report
+
+For detailed methodology, analysis, and business recommendations, refer to the full project report:
+
+[View Full Report](./final_report.pdf)
